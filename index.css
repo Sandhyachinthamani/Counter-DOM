@@ -1,0 +1,36 @@
+*{
+    background-color: black;
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    margin: 50px 0px 35px 40px;
+}
+#decrement{
+    margin: 0px 10px 0px 40px;
+}
+button{
+    padding: 10px 30px;
+    margin-right: 10px;
+    background-color: white;
+    color: black;
+    border:1px solid white;
+}
+#clear{
+    background-color: black;
+    color: white;    
+}
+#error{
+    margin: 0px 80% 20px 40px;
+    color: red;
+}
+
+#counter{
+    margin: 0px 82% 20px 40px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid white; 
+}
